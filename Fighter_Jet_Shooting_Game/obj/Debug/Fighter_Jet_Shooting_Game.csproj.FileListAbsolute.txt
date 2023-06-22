@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\bin\Debug\Fighter_Jet_Shooting_Game.exe.config
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\bin\Debug\Fighter_Jet_Shooting_Game.exe
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\bin\Debug\Fighter_Jet_Shooting_Game.pdb
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.Form1.resources
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.Properties.Resources.resources
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.exe
+C:\Users\USER\source\repos\Fighter_Jet_Shooting_Game\Fighter_Jet_Shooting_Game\obj\Debug\Fighter_Jet_Shooting_Game.pdb
